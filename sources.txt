@@ -1,3 +1,0 @@
-https://cdn.jsdelivr.net/gh/ikun56679-max/comic-sources@mangaforfree/mangaforfree.js
-https://cdn.jsdelivr.net/gh/ikun56679-max/comic-sources@copymanga/copymanga.js
-https://cdn.jsdelivr.net/gh/ikun56679-max/comic-sources@18comic/18comic.js
